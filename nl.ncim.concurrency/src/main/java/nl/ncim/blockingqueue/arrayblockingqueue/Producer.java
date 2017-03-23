@@ -1,3 +1,5 @@
+package nl.ncim.blockingqueue;
+
 import java.util.concurrent.BlockingQueue;
 
 public class Producer implements Runnable{
