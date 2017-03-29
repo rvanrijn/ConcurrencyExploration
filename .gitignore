@@ -62,3 +62,19 @@ fabric.properties
 
 # End of https://www.gitignore.io/api/intellij
 0
+.DS_Store
+.idea/ConcurrencyExploration.iml
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/kotlinc.xml
+.idea/misc.xml
+.idea/modules.xml
+nl.ncim.concurrency/nl.ncim.concurrency.iml
+nl.ncim.concurrency/src/main/java/nl/ncim/blocking/array/ObservableMain.java
+nl.ncim.concurrency/src/main/java/nl/ncim/blocking/array/ObservableQueue.java
+nl.ncim.concurrency/src/main/java/nl/ncim/blocking/array/UserMessage.java
+nl.ncim.concurrency/src/main/java/nl/ncim/blocking/delayed/
+nl.ncim.concurrency/src/main/java/nl/ncim/rx/
+nl.ncim.concurrency/src/test/
+nl.ncim.concurrency/target/
